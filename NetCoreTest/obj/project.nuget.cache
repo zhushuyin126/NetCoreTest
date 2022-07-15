@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpL6WiQYCMNpXeN9wkbm4aXz7S9IMWHrT6g0UuiI6oPQ4lFf94Yd8flgDgFoj9Z1gA4dyi/bBW2pRLMfkCTqbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\star\\source\\repos\\zhushuyin126\\NetCoreTest\\NetCoreTest\\NetCoreTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\star\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
