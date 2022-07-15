@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 
 namespace NetCoreTest
 {
+    /// <summary>
+    /// add 
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
