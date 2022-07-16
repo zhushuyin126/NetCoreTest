@@ -16,6 +16,10 @@ namespace NetCoreTest
     /// </summary>
     public class Startup
     {
+        /// <summary>
+        /// start
+        /// </summary>
+        /// <param name="configuration"></param>
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
