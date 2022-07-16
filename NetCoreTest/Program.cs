@@ -14,7 +14,7 @@ namespace NetCoreTest
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
-            Console.WriteLine("Test 110");
+            Console.WriteLine("Test 11088888888");
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
